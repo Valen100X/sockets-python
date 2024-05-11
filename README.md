@@ -1,12 +1,12 @@
-# Implementaciones de TCP y UDP en Python
+# Cliente-Servidor TCP y UDP en Python
 
-Este repositorio contiene implementaciones simples de los protocolos de transporte TCP y UDP en Python. Hay dos carpetas en este repositorio, una para TCP y otra para UDP. Cada carpeta contiene los archivos `client.py` y `server.py` que implementan un cliente y un servidor para el protocolo respectivo.
+Este repositorio contiene implementaciones simples de cliente-servidor utilizando TCP y UDP en Python. Hay dos carpetas en este repositorio, una para TCP y otra para UDP. Cada carpeta contiene los archivos `client.py` y `server.py` para el protocolo respectivo.
 
 ## Ejecución
 
 ### TCP
 
-Para ejecutar la implementación TCP, siga estos pasos:
+Para ejecutar la implementación en TCP, siga estos pasos:
 
 1. Abra una terminal.
 2. Navegue hasta la carpeta `TCP` del repositorio.
@@ -25,7 +25,7 @@ Para ejecutar la implementación TCP, siga estos pasos:
 
 ### UDP
 
-Para ejecutar la implementación UDP, siga estos pasos:
+Para ejecutar la implementación en UDP, siga estos pasos:
 
 1. Abra una terminal.
 2. Navegue hasta la carpeta `UDP` del repositorio.
