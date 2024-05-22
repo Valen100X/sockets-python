@@ -20,3 +20,4 @@ print("Respuesta del servidor:", response)
 
 # Cerrar el socket
 client_socket.close()
+print(" Hola")
